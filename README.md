@@ -1,2 +1,2 @@
 # calculator-application-
-a calc in c#
+a calculator in c#
